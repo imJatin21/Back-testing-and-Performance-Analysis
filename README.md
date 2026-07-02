@@ -55,8 +55,12 @@ Historical Data → Cleaning → Feature Engineering → Alpha Signals
 ### Performance Metrics
 Sharpe, Sortino, Calmar, Information Ratio, VaR, CVaR, Max Drawdown, Win Rate, Profit Factor, Expectancy, Turnover
 
-### Visualizations
-Equity curve, drawdown, rolling Sharpe, rolling volatility, monthly return heatmap, correlation matrix, asset allocation, efficient frontier, risk contribution, trade history
+### Premium Interactive Dashboard
+A Figma-inspired, institutional-grade Streamlit application featuring:
+- **Glassmorphism UI** with deep navy/charcoal styling and JetBrains Mono typography
+- **Interactive Configuration** (sidebar) for parameters, risk limits, and costs
+- **Real-time Analytics** across 5 tabs (Overview, Performance, Risk, Trades, Optimization)
+- **Publication-Quality Plotly Charts**: Equity curve, drawdown, rolling Sharpe, rolling volatility, monthly return heatmap, correlation matrix, asset allocation, efficient frontier, risk contribution, trade history
 
 ---
 

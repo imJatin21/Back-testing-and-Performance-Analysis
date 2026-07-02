@@ -487,8 +487,8 @@ st.markdown("""
 # ─── Run Backtest ─────────────────────────────────────────────────────────────
 
 @st.cache_data(show_spinner=False)
-def run_backtest(_config_dict):
-    cfg = BacktestConfig(**_config_dict)
+def run_backtest(config_dict):
+    cfg = BacktestConfig(**config_dict)
     bt = Backtester(config=cfg)
     return bt.run()
 
