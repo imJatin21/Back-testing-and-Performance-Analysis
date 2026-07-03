@@ -108,8 +108,3 @@ QUANT/
 
 Python • Pandas • NumPy • SciPy • yfinance • Matplotlib • Seaborn • Plotly • Streamlit
 
----
-
-## License
-
-MIT
