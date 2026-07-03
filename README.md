@@ -1,4 +1,4 @@
-# 📊 Quantitative Multi-Asset Trading Framework
+#Quantitative Multi-Asset Trading Framework
 
 > Institutional-grade backtesting, portfolio optimization, and risk analytics for a multi-asset universe spanning equities, fixed income, commodities, FX, and crypto.
 
